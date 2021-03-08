@@ -1,0 +1,6 @@
+task2: arrays
+task3: custom arrays
+task3closures: classes
+task3hoisting: hoisting examples
+task3reduce: examples of reduce
+task3this: where this references different objects

@@ -1,0 +1,1 @@
+A simple project that shows fetch calls and Promise.all[]

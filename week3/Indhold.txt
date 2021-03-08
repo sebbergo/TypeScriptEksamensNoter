@@ -1,0 +1,15 @@
+task1A: an example of callback-hell
+
+task1B: an example of using "return new Promise" in a function
+
+task1C: require task1B and log the Promise returned
+
+task1D: an example of an async function with await
+
+task1E: an example of an http server using the async await from task1D
+
+task2A: an example of returning some information from a fetch with return new Promise
+
+task2B: an example of returning some information from a fetch with async and await
+
+task3A: logging the time difference from the two different calls(?)

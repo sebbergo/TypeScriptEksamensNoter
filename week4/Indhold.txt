@@ -1,0 +1,2 @@
+A project that demonstrates how Babel works, to show us how node works.
+This was a project that tried to make us understand what node does for us.

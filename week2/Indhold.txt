@@ -1,0 +1,6 @@
+dosDetector: a very basic alarm system for a ddos, where a listener for the
+request between calls listens for how long it is between each request to the url
+
+nodeServer: a simple example of a http server made in JS
+
+test: just a test file for the different modules
